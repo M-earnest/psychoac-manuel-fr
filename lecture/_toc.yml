@@ -6,18 +6,18 @@ chapters:
 - file: general_information/outline
 - file: general_information/setup
 - file: introduction/main
-- file: chapter1/main
+- file: methodo/main
   sections:
-  - file: chapter1/Introduction
-  - file: chapter1/Stimuli
-  - file: chapter1/Methode
-  - file: chapter1/Tache
-  - file: chapter1/Paradigme
-  - file: chapter1/Conclusion
-- file: chapter2/main
+  - file: methodo/Introduction
+  - file: methodo/Stimuli
+  - file: methodo/Methode
+  - file: methodo/Tache
+  - file: methodo/Paradigme
+  - file: methodo/Conclusion
+- file: systeme_auditif/main
   sections:
-  - file: chapter2/Introduction
-  - file: chapter2/Externe
-  - file: chapter2/Central
-  - file: chapter2/Conclusion
+  - file: systeme_auditif/Introduction
+  - file: systeme_auditif/Externe
+  - file: systeme_auditif/Central
+  - file: systeme_auditif/Conclusion
 
