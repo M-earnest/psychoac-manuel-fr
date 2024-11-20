@@ -19,6 +19,14 @@ execute:
   exclude_patterns          : []  # A list of patterns to *skip* in execution (e.g. a notebook that takes a really long time)
 
 #######################################################################################
+# Parsing settings
+parse:
+  myst_enable_extensions:
+    # don't forget to list any other extensions you want enabled,
+    # including those that are enabled by default! See here: https://jupyterbook.org/en/stable/customize/config.html
+    - html_image
+
+#######################################################################################
 # HTML-specific settings
 html:
   favicon                   : ""  # A path to a favicon image
