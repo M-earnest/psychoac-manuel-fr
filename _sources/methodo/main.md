@@ -10,6 +10,5 @@
 
 
 <audio controls>
-  <source src="https://github.com/M-earnest/psychoac-manuel-fr/blob/main/lecture/methodo/1_intact.mp3" type="audio/mp3">
-  Your browser does support the audio element.
+  <source src="https://github.com/M-earnest/psychoac-manuel-fr/raw/refs/heads/main/lecture/methodo/1_intact.mp3" type="audio/mp3">
 </audio>
