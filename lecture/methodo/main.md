@@ -6,3 +6,10 @@
 4. Tâche et instructions
 5. Paradigme expérimental
 6. Conclusion
+
+
+
+<audio controls>
+  <source src="../static/1_intact_mono.wav" type="audio/wav">
+  Your browser does not support the audio element.
+</audio>
