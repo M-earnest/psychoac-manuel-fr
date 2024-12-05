@@ -26,7 +26,6 @@ parse:
     # including those that are enabled by default! See here: https://jupyterbook.org/en/stable/customize/config.html
     - html_image
     - amsmath
-    - html_admonition
   
 
 #######################################################################################
