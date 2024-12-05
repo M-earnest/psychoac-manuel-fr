@@ -8,13 +8,3 @@
 6. Conclusion
 
 
-
-<audio controls>
-  <source src="https://github.com/M-earnest/psychoac-manuel-fr/raw/refs/heads/main/lecture/methodo/1_intact.mp3" type="audio/mp3">
-</audio>
-
-
-<audio controls>
-  <source src="https://github.com/M-earnest/psychoac-manuel-fr/raw/refs/heads/main/lecture/methodo/1_intact_mono.wav" type="audio/wav">
-</audio>
-
