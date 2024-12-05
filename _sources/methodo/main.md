@@ -10,6 +10,6 @@
 
 
 <audio controls>
-  <source src="1_intact.mp3" type="audio/mp3">
+  <source src="https://github.com/M-earnest/psychoac-manuel-fr/blob/main/lecture/methodo/1_intact.mp3" type="audio/mp3">
   Your browser does support the audio element.
 </audio>
