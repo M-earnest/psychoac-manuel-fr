@@ -10,6 +10,6 @@
 
 
 <audio controls>
-  <source src="1_intact_mono.wav" type="audio/wav">
-  Your browser does not support the audio element.
+  <source src="1_intact.mp3" type="audio/mp3">
+  Your browser does support the audio element.
 </audio>
