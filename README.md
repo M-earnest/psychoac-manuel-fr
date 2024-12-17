@@ -3,7 +3,7 @@
 
 ## "What's in this repository?"
 
-This is the readme of the French version of the Psychoacoustic textbook
+This is the readme of the French version of the Psychoacoustic textbook: https://leovarnet.github.io/psychoac-manuel-fr/
 
 ## Structure of the manual
 
