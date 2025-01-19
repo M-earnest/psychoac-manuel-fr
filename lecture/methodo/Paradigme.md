@@ -114,6 +114,6 @@ Une autre variante utile du choix forcé est sa combinaison avec la tâche de di
 
 ## Exemples d’expériences pour la mesure du seuil de détection des modulation
 
-Récapitulons à présent les différents paradigmes et
+Récapitulons à présent les différentes combinaisons de paradigmes et de tâches que nous avons envisagé dans ce chapitre. Pour cela, 
 
 
