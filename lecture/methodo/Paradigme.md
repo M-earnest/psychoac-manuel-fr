@@ -100,9 +100,9 @@ align: center
 
 ## Une mesure de performance commune : d'
 
-Dans le paragraphe précédent, nous avons souligné que l'utilisation d'un paradigme ou d'un autre conduit à changer la difficulté de l'expérience, toutes choses égales par ailleurs. Ceci peut être un atout, par exemple pour rendre plus praticable une tâche difficile. Mais cette difficulté variable est également une contrainte du point de vue des scientifiques car elle complexifie la comparaison de résultats obtenus au moyen de paradigmes différents.
+Dans le paragraphe précédent, nous avons souligné que l'utilisation d'un paradigme ou d'un autre conduit à changer la difficulté de l'expérience, toutes choses égales par ailleurs. Ceci peut être un atout, par exemple pour rendre plus praticable une tâche difficile. Mais cette difficulté variable est également une contrainte du point de vue des scientifiques car elle complique la comparaison de résultats obtenus au moyen de paradigmes différents.
 
-Heureusement, la théorie de la détection du signal permet ici de remettre tous les paradigmes sur une base commune.
+Heureusement, la théorie de la détection du signal permet ici de remettre tous les paradigmes sur une base commune. En effet, elle fournit une nouvelle mesure de performance appelée d', qui, contrairement au pourcentage de réponses correctes, est indépendante du paradigme. Ce d' correspond en réalité à l'écart entre les deux gaussiennes que nous avions définies au chapitre Stimulus et dimensions. Les formules permettant de calculer le d' mettent en jeu un certain nombre de paramètres qui dépassent le cadre de ce cours. Néanmoins, les lecteurs et lectrices intéressées pourront les trouver dans tous les manuels de théorie de la détection du signal.
 
 ## Différentes variantes du choix forcé 
 
@@ -110,7 +110,10 @@ L'expérience en choix forcé décrite plus haut comporte deux stimuli différen
 
 Comme tout choix forcé, le 3I-2AFC est insensible aux effets de critere. Son intérêt principal par rapport au 2I-2AFC réside en sa difficulté plus élevée. Ainsi une expérience qui paraît trop évidente aux participantes et participants avec deux intervalles peut devenir plus engageante avec trois intervalles ou plus. 
 
-Une autre variante utile du choix forcé est sa combinaison avec la tâche de discrimination (souvent appelé**paradigme oddball**). Dans ce cas, trois intervalles sont présentés successivement dans un ordre aléatoire, l'un contenant un son différent des deux autres. La tâche consiste à les discriminer en indiquant quel intervalle contenait le son différent  (par exemple, un essai A-A-B a pour réponse correcte "troisième intervalle", un essai B-A-B "deuxième intervalle") [[notez la différence avec la détection en 3I-2AFC où le sujet sait par avance quel]]. Cet experience combine les avantages du choix forcé et de la discrimination : elle est indépendante du critère et implicite. Cependant elle est également plus longue.
+Une autre variante utile du choix forcé est sa combinaison avec la tâche de discrimination (souvent appelé **paradigme *oddball***). Dans ce cas, trois intervalles sont présentés successivement dans un ordre aléatoire, l'un contenant un son différent des deux autres. La tâche consiste à les discriminer en indiquant quel intervalle contenait le son différent  (par exemple, un essai A-A-B a pour réponse correcte "troisième intervalle", un essai B-A-B "deuxième intervalle"). Notez la différence avec la détection en 3I-2AFC où le sujet sait par avance quelle est la cible recherchée, tandis qu'il s'agit dans le *oddball* d'identifier un stimulus qui diffère des autres. Cet experience combine les avantages du choix forcé et de la discrimination : elle est indépendante du critère et implicite. Cependant elle est également plus longue puisqu'elle nécessite de diffuser 3 stimuli par essai.
 
 ## Exemples d’expériences pour la mesure du seuil de détection des modulation
+
+Récapitulons à présent les différents paradigmes et
+
 
